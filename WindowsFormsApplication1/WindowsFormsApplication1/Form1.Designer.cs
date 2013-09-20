@@ -81,7 +81,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(31, 56);
+            this.label2.Location = new System.Drawing.Point(28, 56);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(26, 13);
             this.label2.TabIndex = 9;
@@ -99,7 +99,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(31, 122);
+            this.label4.Location = new System.Drawing.Point(28, 122);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(53, 13);
             this.label4.TabIndex = 11;
@@ -107,7 +107,7 @@
             // 
             // btnChangeProxy
             // 
-            this.btnChangeProxy.Location = new System.Drawing.Point(105, 169);
+            this.btnChangeProxy.Location = new System.Drawing.Point(116, 168);
             this.btnChangeProxy.Name = "btnChangeProxy";
             this.btnChangeProxy.Size = new System.Drawing.Size(75, 23);
             this.btnChangeProxy.TabIndex = 12;
@@ -123,6 +123,7 @@
             this.button2.TabIndex = 13;
             this.button2.Text = "Cancel";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // btnNoProxy
             // 
@@ -151,7 +152,7 @@
             this.Controls.Add(this.tbPort);
             this.Controls.Add(this.tbProxyAddress);
             this.Name = "Form1";
-            this.Text = "Proxy";
+            this.Text = "Easy Proxy";
             this.ResumeLayout(false);
             this.PerformLayout();
 
