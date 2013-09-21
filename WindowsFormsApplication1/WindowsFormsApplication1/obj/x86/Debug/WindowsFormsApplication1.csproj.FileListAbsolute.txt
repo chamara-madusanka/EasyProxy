@@ -11,7 +11,8 @@ E:\Rumesh\DotNet\GitHub\EasyProxy\WindowsFormsApplication1\WindowsFormsApplicati
 E:\Rumesh\DotNet\GitHub\EasyProxy\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
 E:\Rumesh\DotNet\GitHub\EasyProxy\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
 E:\Rumesh\DotNet\GitHub\EasyProxy\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
-E:\Rumesh\DotNet\GitHub\EasyProxy\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
 E:\Rumesh\DotNet\GitHub\EasyProxy\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
 E:\Rumesh\DotNet\GitHub\EasyProxy\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
 E:\Rumesh\DotNet\GitHub\EasyProxy\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Rumesh\DotNet\GitHub\EasyProxy\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SavedProxy.resources
+E:\Rumesh\DotNet\GitHub\EasyProxy\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache

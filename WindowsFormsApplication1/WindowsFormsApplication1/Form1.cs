@@ -12,9 +12,22 @@ namespace WindowsFormsApplication1
 {
     public partial class Form1 : Form
     {
+
+        public TextBox textProxyAddress;
+        public TextBox textPort;
+        public TextBox textUserName;
+        public TextBox textPassword;
+
         public Form1()
         {
             InitializeComponent();
+
+            textProxyAddress = tbProxyAddress;
+            textPort = tbPort;
+            textUserName = tbUname;
+            textPassword = tbPass;
+            
+
         }
 
         
@@ -39,6 +52,12 @@ namespace WindowsFormsApplication1
         private void button2_Click(object sender, EventArgs e)
         {
             Dispose();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            new SavedProxy(this).Visible = true;
+            this.Visible = false;
         }
     }
 }
